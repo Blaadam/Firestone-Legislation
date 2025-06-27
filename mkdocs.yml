@@ -1,0 +1,56 @@
+site_name: "Firestone Legislation"
+theme:
+  name: material
+  logo: assets/logo.png # TEMP LOGO NEEDS REPLACING ASAP
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - announce.dismiss
+  palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+extra:
+  generator: false
+
+  tags:
+    pending: pending
+    passed: passed
+    failed: failed
+
+repo_name: blaadam/Firestone-Legislation
+repo_url: https://github.com/blaadam/Firestone-Legislation
+site_url: https://blaadam.github.io/Firestone-Legislation/
+
+markdown_extensions:
+  - toc:
+      permalink: ¶
+
+extra_javascript:
+  - javascripts/feedback.js
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - tags
