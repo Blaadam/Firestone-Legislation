@@ -10,7 +10,7 @@ tags:
 To cease the operations of an obsolete oversight department. Any functions of the Department of Defense are easily and already performed by the Major General and the Secretary of Homeland Security. By abolishing the department now, the National Guard and Department of Homeland Security are protected from any potential future power-grabs.<br/>
 _Be it enacted by the Senate and House of Representatives of the State of Firestone in Congress assembled,_
 
-# SECTION 1
+## SECTION 1
 
 The Department of Defense 7 shall be hereby abolished.
 
