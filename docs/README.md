@@ -15,3 +15,20 @@ Legislation within this repository must utilize Permalinks to ensure that refere
 ![image](https://github.com/TurkuRBLX/TurkuLegislation/assets/170458724/101626e7-fbb3-40e3-a63a-1192ade8ad0a)
 
 Questions on this repository can be directed to [@Blaadam](https://github.com/blaadam)
+
+## Legislation Template
+
+```md
+---
+tags:
+  - type        (act/bill/...)
+  - status      (passed/nullified/...)
+  - Act Date    (June 27, 2025)
+---
+
+# Act Name
+
+[description].<br/>
+Be it enacted by the Senate and House of Representatives of the State of Firestone in Congress assembled,
+
+```
