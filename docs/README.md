@@ -4,9 +4,10 @@ This repository contains all legislation for the Roblox community [State of Fire
 Content within the Repository is accessible via the [website](https://blaadam.github.io/Firestone-Legislation/).
 
 If you are accessing the repository to retrieve permalinks, legislative content can be discovered under:  
-[/docs/constitution](https://github.com/tkufi/Firestone-Legislation/tree/main/docs/constitution)  
-[/docs/decrees](https://github.com/tkufi/Firestone-Legislation/tree/main/docs/decrees)  
-[/docs/regulations](https://github.com/tkufi/Firestone-Legislation/tree/main/docs/regulations)
+[/docs/constitution](https://github.com/Blaadam/Firestone-Legislation/tree/main/docs/constitution)
+[/docs/state-legislation](https://github.com/Blaadam/Firestone-Legislation/tree/main/docs/State-Legislation)
+[/docs/county-legislation](https://github.com/Blaadam/Firestone-Legislation/tree/main/docs/County-Legislation)  
+[/docs/municipal-legislation](https://github.com/Blaadam/Firestone-Legislation/tree/main/docs/Municipal-Legislation)  
 
 ## Permalink Use
 
