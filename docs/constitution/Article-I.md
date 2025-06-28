@@ -1,4 +1,4 @@
-# Article I
+# Article I - Legislative Operations
 
 ## Section I - Establishment of Congress
 

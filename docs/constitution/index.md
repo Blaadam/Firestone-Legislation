@@ -2,6 +2,8 @@
 
 This board is maintained by the Governor, Lieutenant Governor, Speaker of the House, Chief Court Justice, and Dannyboyjurist (a citizen chosen by the CCJ) under the [Preamble](#preamble)
 
+<sub>Copied from [Firestone Constitution & Bill of Rights - Trello](https://trello.com/b/sM9J1M5n/firestone-constitution-bill-of-rights)</sub>
+
 ## Preamble
 
 We, the People of the State of Firestone and our posterity, to ensure the foundation of a wholly perfect and unified state, commit ourselves to this Constitution as a beacon of hope for the liberty, security, and future successes of the People.
