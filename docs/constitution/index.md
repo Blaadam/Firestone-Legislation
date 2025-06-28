@@ -2,6 +2,8 @@
 
 This board is maintained by the Governor, Lieutenant Governor, Speaker of the House, Chief Court Justice, and Dannyboyjurist (a citizen chosen by the CCJ) under the [Preamble](#preamble)
 
+It is an accurate reflection of the Constitution and Bill of Rights of the State of Firestone. It shows the current state according to all respective amendments.
+
 <sub>Copied from [Firestone Constitution & Bill of Rights - Trello](https://trello.com/b/sM9J1M5n/firestone-constitution-bill-of-rights)</sub>
 
 ## Preamble
