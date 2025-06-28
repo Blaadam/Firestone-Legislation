@@ -6,9 +6,9 @@
     "body": [
       "---",
       "tags:",
-      "  - type        (act/bill/...)",
-      "  - status      (passed/nullified/...)",
-      "  - Act Date    (June 27, 2025)",
+      "  - (act/bill/...)",
+      "  - (active/repealed/...)",
+      "  - (June 27, 2025)",
       "---",
       "",
       "# $1",
