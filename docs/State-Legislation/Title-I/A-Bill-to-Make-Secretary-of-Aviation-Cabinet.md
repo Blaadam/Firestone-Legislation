@@ -1,7 +1,7 @@
 ---
 tags:
   - bill
-  - nullified
+  - active
   - October 7, 2018
 ---
 

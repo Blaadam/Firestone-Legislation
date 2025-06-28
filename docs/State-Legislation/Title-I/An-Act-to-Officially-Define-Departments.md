@@ -1,7 +1,7 @@
 ---
 tags:
   - bill
-  - passed
+  - active
   - June 17, 2017
 ---
 
