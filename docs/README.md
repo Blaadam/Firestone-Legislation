@@ -7,7 +7,7 @@ If you are accessing the repository to retrieve permalinks, legislative content 
 [/docs/constitution](https://github.com/Blaadam/Firestone-Legislation/tree/main/docs/constitution)
 [/docs/state-legislation](https://github.com/Blaadam/Firestone-Legislation/tree/main/docs/State-Legislation)
 [/docs/county-legislation](https://github.com/Blaadam/Firestone-Legislation/tree/main/docs/County-Legislation)  
-[/docs/municipal-legislation](https://github.com/Blaadam/Firestone-Legislation/tree/main/docs/Municipal-Legislation)  
+[/docs/municipal-legislation](https://github.com/Blaadam/Firestone-Legislation/tree/main/docs/Municipal-Legislation)
 
 ## Permalink Use
 
@@ -29,7 +29,8 @@ tags:
 
 # Act Name
 
-[description].<br/>
-Be it enacted by the Senate and House of Representatives of the State of Firestone in Congress assembled,
+An Act<br/>
+[description].
 
+Be it enacted by the Senate and House of Representatives of the State of Firestone in Congress assembled,
 ```

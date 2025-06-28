@@ -1,0 +1,22 @@
+{
+  "Create Act": {
+    "scope": "md",
+    "prefix": "act",
+    "isFileTemplate": true,
+    "body": [
+      "---",
+      "tags:",
+      "  - type        (act/bill/...)",
+      "  - status      (passed/nullified/...)",
+      "  - Act Date    (June 27, 2025)",
+      "---",
+      "",
+      "# $1",
+      "",
+      "An Act<br/>",
+      "[description].",
+      "",
+      "Be it enacted by the Senate and House of Representatives of the State of Firestone in Congress assembled,"
+    ]
+  }
+}
